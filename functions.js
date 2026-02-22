@@ -1,5 +1,5 @@
 function getMessage() {
-  return Hello;
+  return Hello from user A;
 }
 
 function getAuthor() {
